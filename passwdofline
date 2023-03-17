@@ -1,0 +1,20 @@
+#!/bin/bash
+
+read asdf
+echo "data is installing"
+sleep 14
+echo "all accont data are install"
+read gtas
+echo "searching"
+sleep 16
+cd ..
+cd ..
+cd ..
+cd bin
+cat ls
+echo "passwd:gts4agsdttgcdhtfeh734ahsdyfnvy8sdug"
+read polp
+echo "$polp is qwerty123"
+read juij
+sleep 15
+echo "all data is dellet"

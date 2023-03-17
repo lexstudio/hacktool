@@ -1,0 +1,15 @@
+#!/bin/bash
+
+read asdf
+sleep 2
+echo "$asdf locate(sidenet:7000)power(python)logistic side sq(54318.31834.38134) "
+read qwert
+echo"formation (sq) webip:789.2345.55"
+read bbbb
+echo "connecting webip"
+sleep 1
+echo "connected"
+read edit
+cd ..
+cd Desktop/web
+nano text

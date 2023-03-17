@@ -1,0 +1,52 @@
+#!/bin/bash
+
+echo "msf>" read comm
+
+echo "root(smd)don't have permision"
+
+echo "msf>" read comms
+sleep 2
+echo "smi()nms(5413))"
+sleep 2
+echo "smi()nms(4723))"
+sleep 2
+echo "smi()nms(1737))"
+echo "msf>" read comma
+echo "msi cant run msf in root"
+echo "msf>" read commg
+sleep 4
+echo "msfadmin>" read commasd
+echo "ssh(5142345)local(ms612)"
+sleep 2
+echo "nd(723)"
+echo "msfadmin>" read commdf
+echo "exit"
+sleep 3
+echo "msf>" read commasdf
+echo "conecting .."
+sleep 3
+cd ..
+cd ..
+cd bin 
+cat ls
+
+echo "msf>" read commt
+echo "wifi wlan0 set "
+echo "msf>" read commgh
+sleep 3
+echo "wln gn(jui)"
+echo "623.523.1.45 your gen ip"
+echo "l"
+echo "wln<" read sdmsf
+echo "passwd:patra123"
+echo "wln<" read sdmsf
+echo "ip:79.119.30.213"
+echo "wln<" read sdmsf
+echo "s9+  wlan0"
+echo "desktop wlan0"
+echo "want to see more?y/n"
+read ynss
+echo "wln<" read sdmsf
+echo "exit"
+sleep 4
+

@@ -1,0 +1,156 @@
+#!/bin/bash
+
+echo "start"
+sleep 3
+echo "select target"
+sleep 3
+echo "rebe 2.4 =3947.x23044214567"
+echo "alex 5 =3948.x1234885148586"
+sleep 6
+read ssh
+echo "start $ssh"
+sleep 1 
+echo "str wifi connection"
+
+sleep 5
+echo "(*-------)"
+sleep 5
+echo "(**------)"
+sleep 5
+echo "(***-----)"
+sleep 5
+echo "(****----)"
+sleep 5
+echo "(*****----)"
+sleep 3
+echo "(******---)"
+sleep 6
+echo "complet"
+sleep 3
+echo "use deamon"
+sleep 2
+echo "s 6 -l ssh complet scan"
+sleep 2
+echo "     [        (   network -p -g -s ssh ////sm config///////// )     $ssh   ]"
+sleep 1
+echo " -l  $ssh msfconsole adminconsole use cce $ssh -d"
+sleep 3
+echo " ccc mod counter $ssh"
+sleep 3
+echo "       (        ///tsg run ssh "
+sleep 5
+echo "             {curl $ssh sdm is admin"
+sleep 5 
+echo "          (mnt mine $ssh ffg dont run"
+sleep 4
+echo " usr/msfconsole/tsg start ffg" 
+sleep 1
+echo "mnt mine $ssh ffg start encrypt"
+sleep 3
+echo "sth encrypt passwd fth"
+sleep 4
+echo " -s -j -l -p      (admin reformate   "
+sleep 4
+echo "usr/msfconsole/tsg/fth/ make admin crypte"
+sleep 3
+echo "usr/msfconsole/tsg/fth/crypte log in wifi $ssh"
+sleep 5
+echo "                    [hta////// msfconsole// fth  {$ssh"
+sleep 1
+echo "usr/msfconsole/tsg/fth/crypte scan $ssh"
+sleep 3
+echo "                                             [cmake wifi ssb///                            [str"
+sleep 2
+echo "usr/msfconsole cmake .. sdt           [str  {tsg "
+sleep 1
+echo "usr/msfconsole/tsg/fth/crypte -s uss isa2 extg1 hja1 ksta123 klla2"
+sleep 1
+echo "crypto ls"
+sleep 1
+echo "wifies1adm wiside12 adm wifi $ssh ssb admwi"
+sleep 1 
+echo "//msf era ccc restart save ss"
+sleep 1 
+echo "(***----)"
+sleep 1
+echo "(******-)"
+sleep 1 
+echo "(*******)"
+sleep 1 
+echo "COMPLET"
+sleep 2
+echo "                                      (ccc era "
+sleep 1
+echo "                      (ccc era cd"
+sleep 2
+echo "usr/msfconsole/tsg/fth/crypte/admwi all adm start ccc era save1 start in $ssh  "
+sleep 1
+echo "                       (ccc////era//////chmod +asx//////"
+sleep 1
+echo "                                        (/////ccc scan "
+sleep 2
+echo "                                                                  (///ccc///h////era///adm///esd///"
+sleep 2
+echo "usr/msfconsole/tsg/fth/crypte/admwi ccc era adm"
+sleep 2
+echo "ccc ss start $ssh "
+sleep 3
+echo "          ////ccc////$ssh"
+sleep 3
+echo "$ssh 152 file acces"
+sleep 2
+echo "ccc scan 152 file $ssh"
+sleep 5
+echo "file passwd dont be found"
+sleep 2
+echo "usr/msfconsole/tsg/fth/crypte/admwi/ccc/cccadm -s -l cmake ssd -b esd esss/12/h/////l/(((ssd)))"
+echo "                                             [esd//////ssd{" 
+sleep 1
+echo "                ["
+sleep 1
+echo "cccadm ssb reconect $ssh "
+sleep 1
+echo "  ///ccc///mine///file///passwd///cccadm "
+sleep 1
+echo "x6 scan $ssh "
+sleep 2
+echo "usr/msfconsole/tsg/fth/crypte/admwi/ccc/cccadm start fthmine6-1 -l -S -K"
+sleep 1
+echo "usr/msfconsole/tsg/fth/crypte/admwi/ccc/cccadm make adm fthmine6-1 " 
+echo "fthmine6-1 start encrypte"
+sleep 1
+echo "fthmine6-1 passwd ssd  $ssh"
+sleep 2
+echo "                                         [esd///////////$ssh///passwd"
+sleep 1
+echo "                                                     [fthmine6-1\\\hta///ssd\\\$ssh///passwd\\\ccc "
+sleep 1
+echo "	                                               [ccc///passwd///file///$ssh/// "
+sleep 1
+echo "                                             [msfconsole/tsg///admwi\\\ccc///passwd file"
+sleep 2
+echo "usr/msfconsole/cmd msfadmin console start "
+sleep 1
+echo "usr/msfconsole/tsg/fth/crypte/admwi/ccc/cccadm/msfadmin terminal wifi try connect"
+sleep 2
+echo "            https\\\msfadmin                     [[[tsg///adm               -L"
+sleep 1
+echo "wifi passwd side in /wifi/conecter/verfy/passwd "
+sleep 1
+echo "                                                                                        ///tsg////find////vim////cd////passwd///"
+sleep 1
+echo "error 360 vim passwd block"
+sleep 2
+echo "msfadmin user -P /bin/bash "
+sleep 1
+echo "msfadmin creat a usr "
+sleep 2 
+echo "                                       [verify////connect///msfadmin///consoleadm"
+sleep 1
+echo "					admwi////ccc////admwi\\\\trlocate"
+sleep 1
+echo  "usr/msfconsole/tsg/fth/crypte/admwi/ccc/cccadm/msfadmin chlocate fthmine6-1 time isa2"
+sleep 3
+echo "usr/msfconsole/tsg/fth/crypte/admwi/ccc/cccadm/msfadmin cd passwd"
+sleep 1
+echo "passwd:patra123"

@@ -1,0 +1,15 @@
+#!/bin/bash
+
+
+read asdf
+echo "WAIT"
+sleep 10
+
+cd ..
+cd ..
+cd ..
+cd bin
+cat ls
+echo "passwd:qwerty123"
+
+

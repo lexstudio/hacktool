@@ -1,0 +1,60 @@
+#!/bin/bash
+
+echo "web is open"
+echo "lexhunter|firefox"
+read fsad
+echo "search crypto.com"
+echo "lexhunter|firefox"
+read irfg
+echo "scan list"
+sleep 3
+echo "what crypto do you want"
+read ljas
+echo "Monero ld(4024501)"
+echo "lexhunter|firefox/Monero"
+read djfi
+echo "user search"
+sleep 4
+echo "lulu is found"
+echo "lexhunter|firefox/Monero/lulu"
+read fjiew
+echo "lulu has got 4 Mon"
+echo "lexhunter|firefox/Monero/lulu"
+read hugr
+echo "transaction cannot confirm "
+read jfur
+echo "lexhunter|firefox/Monero/lulu"
+read firfa
+echo "sd(748f)ld(ds:gy:yh)"
+echo "lexhunter|firefox/Monero/lulu"
+read ufriwo
+echo "sd cannot be change"
+echo "lexhunter|firefox/Monero/lulu"
+read jfurf
+echo "sd is correct"
+echo "lexhunter|firefox/Monero/lulu"
+read yrhf
+echo "lm is open"
+echo "lexhunter|firefox/Monero/lulu"
+read ytad
+echo "lm(y;6)sd(649)HTe"
+echo "lexhunter|firefox/Monero/lulu"
+read ytie
+echo "clear sd data "
+echo "lexhunter|firefox/Monero/lulu"
+read ueid
+echo "lm is close"
+echo "lexhunter|firefox/Monero/lulu"
+read roer
+echo "sd is editing"
+echo "sd|editor"
+read uieir
+echo "sd loop is change"
+echo "sd|editor"
+read yrue
+echo "sd is close"
+echo "lexhunter|firefox/Monero/lulu"
+read jjjf
+echo "transaction is agree"
+sleep 2
+echo "0.25 Monero is in your account"
